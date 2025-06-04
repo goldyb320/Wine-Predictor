@@ -18,10 +18,6 @@ winePredictor/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation (this file)
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📊 Features
@@ -38,26 +34,17 @@ Edit
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/YOUR_USERNAME/winePredictor.git
 cd winePredictor
 2. Create a Virtual Environment (recommended)
-bash
-Copy
-Edit
 python3 -m venv env
 source env/bin/activate  # For WSL or Mac
 .\env\Scripts\activate   # For Windows CMD/PowerShell
 3. Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 4. Launch Jupyter Notebook
-bash
-Copy
-Edit
 jupyter-notebook
+
 Then open game-of-wines.ipynb in your browser.
 
 🧪 Data Source
@@ -67,16 +54,3 @@ UCI Machine Learning Repository
 🧠 Author
 Based on the freeCodeCamp tutorial by Ashwin Hariharan.
 Modified and extended by Ben Goldman.
-
-yaml
-Copy
-Edit
-
----
-
-Once you've saved this as `README.md`, commit it:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
