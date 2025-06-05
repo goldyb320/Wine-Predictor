@@ -52,5 +52,5 @@ Wine Quality Datasets (Red & White):
 UCI Machine Learning Repository
 
 🧠 Author
-Based on the freeCodeCamp tutorial by Ashwin Hariharan.
+By Ashwin Hariharan.
 Modified and extended by Ben Goldman.
